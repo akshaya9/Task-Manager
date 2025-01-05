@@ -1,4 +1,5 @@
 # Task-Manager
+Project built using MERN Stack.
 
 Register:
 ![image](https://github.com/user-attachments/assets/7859dd09-5f4a-41d3-8185-ea09446806ef)
